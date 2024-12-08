@@ -16,3 +16,4 @@ class QuadraticFormulaScene(Scene):
         
         # Pausa para que se vea la fórmula
         #self.wait()
+#Revisado
